@@ -1,2 +1,2 @@
 # cc-repo
-Sample Repo
+Sample Repos
